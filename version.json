@@ -1,5 +1,1 @@
-{
-  "latest": "1.0.0",
-  "notes": "First release. Crew Manager checks this file once a day - see the README for how updates work.",
-  "url": "https://github.com/ControlWorks/Crew-Manager-Releases/releases/latest"
-}
+{"latest":"1.0.1","notes":"Fixes from the first tester round: the calibration window now starts the capture engine for you and watches the folder the engine actually writes to; Crew Manager warns before a scan if a different BlueStacks app (Desktop / X) is open; scan failures explain themselves in plain words. Getting Started now names BlueStacks App Player explicitly.","url":"https://github.com/ControlWorks/Crew-Manager-Releases/releases/latest"}
